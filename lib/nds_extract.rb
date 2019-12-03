@@ -37,7 +37,7 @@ column_index += 1
 end 
 row_index += 1 
 end
-binding.pry 
+ 
 totals 
   
 end
